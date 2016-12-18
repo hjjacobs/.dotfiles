@@ -12,6 +12,7 @@ apps=(
   diffmerge
   docker
   dropbox
+  etcher
   firefox
   google-chrome
   intellij-idea
