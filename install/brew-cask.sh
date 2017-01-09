@@ -23,6 +23,7 @@ apps=(
   moom
   omnigraffle6
   onyx
+  postman
   quitter
   resilio-sync
   skype
