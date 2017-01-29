@@ -9,6 +9,7 @@ apps=(
   appzapper
   caffeine
   cyberduck
+  cryptomator
   diffmerge
   docker
   dropbox
