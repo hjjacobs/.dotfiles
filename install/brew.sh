@@ -22,6 +22,7 @@ apps=(
   packer
   thefuck
   wget
+  youtube-dl
 )
 brew install "${apps[@]}"
 
