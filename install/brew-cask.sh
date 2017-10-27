@@ -30,7 +30,7 @@ apps=(
   skype
   slack
   sublime-text
-  sugarsync
+  spideroakone
   tunnelblick
   vagrant
   virtualbox

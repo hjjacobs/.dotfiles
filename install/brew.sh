@@ -12,12 +12,14 @@ apps=(
   gcc
   ack
   archey
+  asciinema
   azure-cli
   cctools
   dockutil
   go
   git
   git-lfs
+  imagemagick
   jq
   packer
   thefuck
