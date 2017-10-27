@@ -1,15 +1,13 @@
 # Install cask.
 if [ ! -z "$(brew cask --version)" ]; then
-  brew install caskroom/cask/brew-cask
+  brew tap caskroom/cask
 fi
 
 # Apps to be installed by homebrew cask.
 apps=(
   1password
   appzapper
-  caffeine
   cyberduck
-  cryptomator
   diffmerge
   docker
   dropbox
@@ -22,7 +20,7 @@ apps=(
   little-snitch
   microsoft-office
   moom
-  omnigraffle6
+  omnigraffle
   onyx
   postman
   quitter
