@@ -7,31 +7,26 @@ fi
 apps=(
   1password
   appzapper
-  caffeine
-  cyberduck
-  cryptomator
-  diffmerge
+  amphetamine
+  carbon-copy-cloner
   docker
   dropbox
   etcher
   firefox
   google-chrome
+  handbrake
   intellij-idea
   iterm2
   kindle
   little-snitch
   microsoft-office
   moom
+  mullvadvpn
   omnigraffle6
   onyx
-  postman
-  quitter
   resilio-sync
-  skype
-  slack
   sublime-text
-  sugarsync
-  tunnelblick
+  spideroakone
   vagrant
   vagrant-manager
   virtualbox
