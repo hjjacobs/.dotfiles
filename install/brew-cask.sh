@@ -33,6 +33,7 @@ apps=(
   sugarsync
   tunnelblick
   vagrant
+  vagrant-manager
   virtualbox
   visual-studio-code
   vmware-fusion
